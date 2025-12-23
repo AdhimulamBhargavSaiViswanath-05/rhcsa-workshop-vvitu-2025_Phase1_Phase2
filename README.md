@@ -79,12 +79,11 @@ This repository is created to:
 ## 🔗 LinkedIn Reflections
 
 - **RHCSA Phase 1 – Offline Workshop:**  
-  https://www.linkedin.com/posts/adhimulambhargavsaiviswanath_rhcsa-redhat-linux-activity-7325386174343061504-LiK-
+  [View LinkedIn Post](https://www.linkedin.com/posts/adhimulambhargavsaiviswanath_rhcsa-redhat-linux-activity-7325386174343061504-LiK-)
 
 - **RHCSA Phase 2 – Online Workshop:**  
-  *(Posted after completion)*
+  [View LinkedIn Post](https://www.linkedin.com/posts/adhimulambhargavsaiviswanath_rhcsa-redhat-linux-activity-7409167372596457472-1LFC)
 
----
 
 ## 🏁 Conclusion
 
