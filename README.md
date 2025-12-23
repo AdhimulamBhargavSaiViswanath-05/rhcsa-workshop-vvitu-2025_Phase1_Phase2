@@ -1,38 +1,61 @@
-# 🚀 RHCSA (Phase 1) Workshop – VVITU x Red Hat
+# 🚀 RHCSA Workshop (Phase 1 & Phase 2) – VVITU x Red Hat
 
-Welcome to the official documentation of my learning experience during the **Red Hat Certified System Administrator (RHCSA) – Phase 1** Workshop conducted at **Vasireddy Venkatadri International Technological University (VVITU)**.
+Welcome to this repository documenting my learning journey through the **Red Hat Certified System Administrator (RHCSA)** Workshop, conducted in **two phases** by **Red Hat**, organized by the **IEEE VVITU Student Branch** at **VVITU**.
 
----
-
-## 📌 Workshop Details
-
-- **🗓️ Dates:** April 21, 2025 – April 26, 2025  
-- **🏫 Organized By:** IEEE VVITU Council  
-- **🎯 Target:** Preparation for RHCSA (EX200) Certification  
-- **🖥️ Platform:** Red Hat Enterprise Linux (RHEL)  
-- **📍 Location:** VVITU Campus, Nambur, Guntur District  
-
-This was a 6-day foundational workshop focusing on **Linux system administration** through Red Hat OS. It helped participants understand essential administrative tasks and set a strong base for pursuing RHCSA certification.
+This repository serves as a **learning record, reference, and revision resource** for RHCSA (EX200) preparation.
 
 ---
 
-## 🎯 Objectives of the Workshop
+## 📌 Workshop Overview
 
-- Learn the fundamentals of Linux using Red Hat OS  
-- Understand essential system administration concepts  
-- Get familiar with the Linux command-line environment  
-- Prepare for real-world IT administration tasks  
-- Build a structured pathway towards RHCSA (EX200)
+| Phase | Mode | Duration | Focus |
+|------|------|----------|-------|
+| **Phase 1** | Offline (Campus) | April 21 – April 26, 2025 | Linux fundamentals & basics |
+| **Phase 2** | Online | August 26 – September 29, 2025 | Advanced hands-on Linux |
+
+- **Certification Track:** RHCSA (EX200)  
+- **Platform:** Red Hat Enterprise Linux (RHEL)  
+- **Organized By:** IEEE VVITU Student Branch  
+- **Institution:** VVITU, Nambur, Guntur District  
 
 ---
 
-## 📚 Workshop Notes & Resources
+## 🧩 Phase 1 – Foundation (Offline)
 
-All the concepts, commands, and learning materials discussed during the RHCSA Phase 1 Workshop have been carefully documented in this repository.  
+**Phase 1** was a **6-day intensive offline workshop** conducted at the VVITU campus.  
+It focused on building a **strong foundation in Linux system administration** using Red Hat Enterprise Linux.
 
-📝 You can explore my notes and summaries for each session here — they reflect the training delivered by the Red Hat mentors and the official material provided during the workshop.
+### Key Learnings:
+- Introduction to Linux & Red Hat OS  
+- Basic command-line operations  
+- File system and directory management  
+- Users, groups, and permissions  
+- Core system administration concepts  
 
-> This repository serves as a reference for anyone who wants to revisit or learn the foundational topics of Linux system administration using RHEL.
+---
+
+## 🔧 Phase 2 – Advanced & Hands-on (Online)
+
+**Phase 2** was a **long-duration online workshop** aimed at strengthening practical Linux administration skills aligned with the **RHCSA (EX200)** certification.
+
+### Duration:
+- **26 August 2025 – 29 September 2025**
+
+### Focus Areas:
+- Advanced Linux command usage  
+- Practical system administration tasks  
+- Real-world Linux scenarios  
+- Better preparation for RHCSA exam  
+
+---
+
+## 📚 Repository Purpose
+
+This repository is created to:
+- Store workshop notes, commands, and practice files  
+- Track learning progress across both phases  
+- Serve as a revision reference for Linux system administration  
+- Document my RHCSA learning journey  
 
 ---
 
@@ -40,41 +63,31 @@ All the concepts, commands, and learning materials discussed during the RHCSA Ph
 
 ### 🧑‍🏫 Workshop Mentors:
 - **Mr. Manoj Kumar**  
-- **Mr. Anish Kumar**  
-
-Thank you for providing insightful sessions, hands-on guidance, and real-world learning scenarios during the entire workshop.
+- **Mr. Anish Kumar**
 
 ### 👥 Organizers:
-- **IEEE VVITU Council**  
-Gratitude for organizing such a valuable training initiative that benefits students with industry-relevant skills.
+- **IEEE VVITU Student Branch**
 
 ### 👨‍🔬 Faculty Coordinator:
-- **Dr. Ravindranath Tagore M, M.Tech., Ph.D., Professor**  
-Your consistent support and effective coordination made this workshop smooth and impactful.
+- **Dr. Ravindranath Tagore M, M.Tech., Ph.D., Professor**
 
 ### 🎓 Institutional Leadership:
-- **Dr. Y. Mallikarjuna Reddy, Ph.D., Professor & Principal** – VVITU  
-Special thanks for enabling such professional programs and encouraging student participation at VVITU.
+- **Dr. Y. Mallikarjuna Reddy, Ph.D., Professor & Principal – VVITU**
 
 ---
 
-## 🔜 What’s Next?
+## 🔗 LinkedIn Reflections
 
-We are excited and looking forward to **Phase 2** of the RHCSA Workshop, where we will dive deeper into advanced Linux administration tasks, live simulations, and in-depth preparation for the RHCSA certification.
+- **RHCSA Phase 1 – Offline Workshop:**  
+  https://www.linkedin.com/posts/adhimulambhargavsaiviswanath_rhcsa-redhat-linux-activity-7325386174343061504-LiK-
 
----
-## 🔗 LinkedIn Post
-
-You can also check out my reflection and highlights of this workshop on LinkedIn:  
-👉 [LinkedIn Post – RHCSA Phase 1 Workshop at VVITU](https://www.linkedin.com/posts/adhimulambhargavsaiviswanath_rhcsa-redhat-linux-activity-7325386174343061504-LiK-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErcx_oBgfU6Z0sEpHM_mtVuDQXv_VG3mgc)
+- **RHCSA Phase 2 – Online Workshop:**  
+  *(Posted after completion)*
 
 ---
 
 ## 🏁 Conclusion
 
-The **RHCSA Phase 1 Workshop** served as a stepping stone in my Linux learning path. I now feel more confident in using Red Hat systems and am motivated to explore the deeper aspects of system administration in the upcoming Phase 2.
+Completing **both Phase 1 and Phase 2 of the RHCSA Workshop** has strengthened my Linux system administration skills and prepared me for further certification and real-world system management.
 
-**➡️ Moving forward, one command at a time.**
-
----
-
+**➡️ Learning Linux, one command at a time.**
