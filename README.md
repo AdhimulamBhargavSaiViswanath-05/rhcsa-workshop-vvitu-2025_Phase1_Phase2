@@ -403,7 +403,7 @@ Completing **both Phase 1 and Phase 2 of the RHCSA Workshop** has been an transf
 
 ---
 
-![Red Hat Logo](https://www.logo.wine/logo/Red_Hat)
+![Red Hat Logo](./RHEL/Logo.jpg)
 
 ---
 
